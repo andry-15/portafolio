@@ -3,7 +3,7 @@
     font-family: "Poppins", sans-serif;
 }
 .images{
-    background: url("/img/02.jpg");
+    background: url("../img/02.jpg");
     width: 900px;
     height: 600px;
     background-position: center; 

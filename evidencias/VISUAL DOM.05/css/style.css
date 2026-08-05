@@ -13,7 +13,7 @@ body{
 
 .stopWatch {
     background-image: linear-gradient(rgba(79, 1, 162, 0.846), rgba(0, 0, 0, 0.908)),
-    url(images/background.png);
+    url(../images/background.png);
     max-width: 600px;
     background-size: cover; 
     background-position: center;
